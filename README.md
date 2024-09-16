@@ -16,6 +16,9 @@ A simple and beautiful dice roller app built using Flutter. The app features a s
 
 ## Screenshots 📸
 
+![Control-V](https://github.com/user-attachments/assets/f16499fe-a837-410a-9e4d-34a1d31c9714)
+
+
 ## Getting Started 🚀
 
 1. Clone the repository:
