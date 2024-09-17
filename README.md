@@ -41,12 +41,8 @@ A simple and beautiful dice roller app built using Flutter. The app features a s
 ## Dependencies 📦
 
 - `flutter`: SDK for developing mobile apps.
-- _(List any other packages you are using)_
+- `flutter_launcher_icons`: A package which simplifies the task of updating your Flutter app's launcher icon.
 
 ## Contributing 🤝
 
 Feel free to submit pull requests for bug fixes or new features! Contributions are always welcome.
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
