@@ -1,5 +1,6 @@
 import 'dart:math';
 
+import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 
 final randomizer = Random();
@@ -18,6 +19,7 @@ class _DiceRollerState extends State<DiceRoller> {
 
   void pressedButton() {
     var raNumber = randomizer.nextInt(6) + 1;
+    AudioPlayer().play(AssetSource('audio/dice.mp3'));
     setState(() {
       diceImage = "assets/images/dice-$raNumber.png";
     });
